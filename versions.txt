@@ -1095,4 +1095,8 @@ a5731b4a-195a-434f-9024-d9d843f87049 Microsoft.MinecraftUWP_1.16.10060.0_x64__8w
 8e98b988-0453-4a49-9365-51f5dda820f0 Microsoft.MinecraftUWP_1.16.10060.0_x86__8wekyb3d8bbwe 239579977
 d094fe94-4ceb-4306-b370-48d28693cc13 Microsoft.MinecraftUWP_1.16.10060.70_x64__8wekyb3d8bbwe 239579980
 1fe12d6e-ce0e-499b-8473-2178e31b7077 Microsoft.MinecraftUWP_1.16.10060.70_x86__8wekyb3d8bbwe 239579976
+a291f996-1b82-449e-82be-01a26d9e59e8 Microsoft.MinecraftUWP_1.16.10060.0_x64__8wekyb3d8bbwe 239930520
+ca704e8a-aeb8-466e-b056-b923a6249548 Microsoft.MinecraftUWP_1.16.10060.0_x86__8wekyb3d8bbwe 239930522
+e6c08802-b5f6-423d-8a9a-f511283d3fff Microsoft.MinecraftUWP_1.16.10060.70_x64__8wekyb3d8bbwe 239930525
+3a780154-3392-4064-ae40-8a17f1b09907 Microsoft.MinecraftUWP_1.16.10060.70_x86__8wekyb3d8bbwe 239930519
 

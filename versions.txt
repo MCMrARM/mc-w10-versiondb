@@ -1377,6 +1377,12 @@ ba969ff4-8c5d-41f4-b75f-673766bcb2c6 Microsoft.MinecraftUWP_1.19.1003.0_x86__8we
 c320a2b7-3354-4bfc-8876-fed8a2025ca0 Microsoft.MinecraftUWP_1.19.1003.70_arm__8wekyb3d8bbwe 266877786
 ffe1a0a3-73d4-4bbf-8cf5-cb5514a1665a Microsoft.MinecraftUWP_1.19.1003.70_x64__8wekyb3d8bbwe 266877788
 09a0a456-f863-4322-934d-68b48127aa1e Microsoft.MinecraftUWP_1.19.1003.70_x86__8wekyb3d8bbwe 266877784
+46ab5c2e-19e6-4dc0-8401-73e080856497 Microsoft.MinecraftUWP_1.19.1101.0_arm__8wekyb3d8bbwe 267688768
+57c66c18-ae99-4776-9deb-4a0bf98b2425 Microsoft.MinecraftUWP_1.19.1101.0_x64__8wekyb3d8bbwe 267688769
+dd66113a-d909-4b04-8728-70939e452e61 Microsoft.MinecraftUWP_1.19.1101.0_x86__8wekyb3d8bbwe 267688773
+aba1d4bf-2fc1-4699-9f2a-6eeff2a6b827 Microsoft.MinecraftUWP_1.19.1101.70_arm__8wekyb3d8bbwe 267688772
+653bc0a6-8292-448a-9b80-a397b3177975 Microsoft.MinecraftUWP_1.19.1101.70_x64__8wekyb3d8bbwe 267688771
+633d11c7-fb9e-41b0-a143-2a0dc434ec48 Microsoft.MinecraftUWP_1.19.1101.70_x86__8wekyb3d8bbwe 267688770
 
 Beta
 FD02D969-1F8C-4E9E-9B1A-3E622A0E4450 Microsoft.MinecraftUWP_1.2.203.0_arm__8wekyb3d8bbwe.Appx

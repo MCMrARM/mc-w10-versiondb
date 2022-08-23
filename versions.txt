@@ -3273,4 +3273,8 @@ cb0f326c-98a7-411e-aa25-f6b4fe936fd1 Microsoft.MinecraftWindowsBeta_1.19.2024.0_
 47fcf25f-08b1-4a1f-b918-967aef91c864 Microsoft.MinecraftWindowsBeta_1.19.3020.0_x86__8wekyb3d8bbwe 268214788
 780cc54f-f8c1-4dfb-8af3-11ab3fd52ec5 Microsoft.MinecraftWindowsBeta_1.19.3020.70_x64__8wekyb3d8bbwe 268214789
 38048bbc-8595-4e71-b405-75f18e13c404 Microsoft.MinecraftWindowsBeta_1.19.3020.70_x86__8wekyb3d8bbwe 268214787
+c3b71ea8-b539-4fe5-b68a-5bf3ef4892d2 Microsoft.MinecraftWindowsBeta_1.19.3022.0_x64__8wekyb3d8bbwe 268852794
+fcf5ce4d-ca23-4649-8bf7-3318462c1240 Microsoft.MinecraftWindowsBeta_1.19.3022.0_x86__8wekyb3d8bbwe 268852796
+ea80bbdd-216c-4028-b316-ac5501550623 Microsoft.MinecraftWindowsBeta_1.19.3022.70_x64__8wekyb3d8bbwe 268852795
+6b21d165-7cd7-4a76-9fc3-2130d647978e Microsoft.MinecraftWindowsBeta_1.19.3022.70_x86__8wekyb3d8bbwe 268852793
 

@@ -4012,4 +4012,6 @@ f85a073c-afcf-4425-a2b4-3e8438bdba5b Microsoft.MinecraftWindowsBeta_1.21.6021.0_
 3dfc6c67-1aa3-47bb-a4fb-fdc6570aa979 Microsoft.MinecraftWindowsBeta_1.21.6021.0_x86__8wekyb3d8bbwe 309044520
 6e1eaea0-b349-4448-b8d0-0398107e521a Microsoft.MinecraftWindowsBeta_1.21.6023.0_x64__8wekyb3d8bbwe 309661754
 1a85d4b7-e80a-4b0c-ae20-08c6ab86f4c5 Microsoft.MinecraftWindowsBeta_1.21.6023.0_x86__8wekyb3d8bbwe 309661753
+f5a9d362-7b9d-488c-a1f5-7aa05fc0a7fa Microsoft.MinecraftWindowsBeta_1.21.6024.0_x64__8wekyb3d8bbwe 309989251
+aa637bf7-657c-4e6a-8e95-840de837f48c Microsoft.MinecraftWindowsBeta_1.21.6024.0_x86__8wekyb3d8bbwe 309989250
 
